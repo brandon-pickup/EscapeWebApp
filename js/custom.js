@@ -1,3 +1,4 @@
+$('#carousel').carousel3d();
 var carousel = $(".carousel"),
     currdeg  = 0;
 
